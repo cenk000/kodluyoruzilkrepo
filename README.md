@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 # Installation
-öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link)
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link)
 
 ``` 
 git clone https://github.com/cenk000/kodluyoruzilkrepo
@@ -24,4 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 
-[MIT](https://choosealicense.com/)
+[MIT](https://choosealicense.com/licenses/mit/)
